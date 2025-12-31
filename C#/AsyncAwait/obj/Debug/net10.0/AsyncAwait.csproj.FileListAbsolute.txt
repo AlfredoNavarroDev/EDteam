@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\bin\Debug\net10.0\AsyncAwait.exe
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\bin\Debug\net10.0\AsyncAwait.deps.json
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\bin\Debug\net10.0\AsyncAwait.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\bin\Debug\net10.0\AsyncAwait.dll
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\bin\Debug\net10.0\AsyncAwait.pdb
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.dll
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\refint\AsyncAwait.dll
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.pdb
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\AsyncAwait\obj\Debug\net10.0\ref\AsyncAwait.dll

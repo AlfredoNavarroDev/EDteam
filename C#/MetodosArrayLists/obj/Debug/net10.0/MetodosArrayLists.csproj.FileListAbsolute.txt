@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\bin\Debug\net10.0\MetodosArrayLists.exe
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\bin\Debug\net10.0\MetodosArrayLists.deps.json
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\bin\Debug\net10.0\MetodosArrayLists.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\bin\Debug\net10.0\MetodosArrayLists.dll
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\bin\Debug\net10.0\MetodosArrayLists.pdb
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.dll
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\refint\MetodosArrayLists.dll
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.pdb
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\MetodosArrayLists.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\MetodosArrayLists\obj\Debug\net10.0\ref\MetodosArrayLists.dll

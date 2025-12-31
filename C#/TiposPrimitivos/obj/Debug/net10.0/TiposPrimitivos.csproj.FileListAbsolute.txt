@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\bin\Debug\net10.0\TiposPrimitivos.exe
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\bin\Debug\net10.0\TiposPrimitivos.deps.json
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\bin\Debug\net10.0\TiposPrimitivos.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\bin\Debug\net10.0\TiposPrimitivos.dll
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\bin\Debug\net10.0\TiposPrimitivos.pdb
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.dll
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\refint\TiposPrimitivos.dll
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.pdb
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\TiposPrimitivos.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\TiposPrimitivos\obj\Debug\net10.0\ref\TiposPrimitivos.dll

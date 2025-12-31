@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\bin\Debug\net10.0\EstructurasDeControl.exe
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\bin\Debug\net10.0\EstructurasDeControl.deps.json
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\bin\Debug\net10.0\EstructurasDeControl.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\bin\Debug\net10.0\EstructurasDeControl.dll
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\bin\Debug\net10.0\EstructurasDeControl.pdb
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.dll
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\refint\EstructurasDeControl.dll
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.pdb
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\EstructurasDeControl.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\EstructurasDeControl\obj\Debug\net10.0\ref\EstructurasDeControl.dll

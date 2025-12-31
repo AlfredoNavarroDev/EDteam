@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\bin\Debug\net10.0\ClassObjectProperties.exe
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\bin\Debug\net10.0\ClassObjectProperties.deps.json
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\bin\Debug\net10.0\ClassObjectProperties.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\bin\Debug\net10.0\ClassObjectProperties.dll
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\bin\Debug\net10.0\ClassObjectProperties.pdb
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.dll
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\refint\ClassObjectProperties.dll
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.pdb
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ClassObjectProperties.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\ClassObjectProperties\obj\Debug\net10.0\ref\ClassObjectProperties.dll

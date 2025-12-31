@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\EHIC\bin\Debug\net10.0\EHIC.exe
+C:\Users\USER\Desktop\EDteam\C#\EHIC\bin\Debug\net10.0\EHIC.deps.json
+C:\Users\USER\Desktop\EDteam\C#\EHIC\bin\Debug\net10.0\EHIC.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\EHIC\bin\Debug\net10.0\EHIC.dll
+C:\Users\USER\Desktop\EDteam\C#\EHIC\bin\Debug\net10.0\EHIC.pdb
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.dll
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\refint\EHIC.dll
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.pdb
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\EHIC.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\EHIC\obj\Debug\net10.0\ref\EHIC.dll

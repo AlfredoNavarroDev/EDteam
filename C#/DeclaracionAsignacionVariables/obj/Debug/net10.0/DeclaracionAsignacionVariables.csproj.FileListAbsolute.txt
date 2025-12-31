@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\bin\Debug\net10.0\DeclaracionAsignacionVariables.exe
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\bin\Debug\net10.0\DeclaracionAsignacionVariables.deps.json
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\bin\Debug\net10.0\DeclaracionAsignacionVariables.runtimeconfig.json
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\bin\Debug\net10.0\DeclaracionAsignacionVariables.dll
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\bin\Debug\net10.0\DeclaracionAsignacionVariables.pdb
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.AssemblyInfo.cs
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.dll
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\refint\DeclaracionAsignacionVariables.dll
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.pdb
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\DeclaracionAsignacionVariables.genruntimeconfig.cache
+C:\Users\USER\Desktop\EDteam\C#\DeclaracionAsignacionVariables\obj\Debug\net10.0\ref\DeclaracionAsignacionVariables.dll

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AsyncAwait/AsyncAwait.csproj" />
+  <Project Path="ClassObjectProperties/ClassObjectProperties.csproj" />
+  <Project Path="EHIC/EHIC.csproj" />
+</Solution>
