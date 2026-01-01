@@ -31,3 +31,7 @@ C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\obj\Debug\net10.0\refint\Products
 C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\obj\Debug\net10.0\ProductsWebApi.pdb
 C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\obj\Debug\net10.0\ProductsWebApi.genruntimeconfig.cache
 C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\obj\Debug\net10.0\ref\ProductsWebApi.dll
+C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\obj\Debug\net10.0\ProductsWebApi.sourcelink.json
+C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\EDteam\C#\ProductsWebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
