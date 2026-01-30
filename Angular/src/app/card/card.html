@@ -1,0 +1,16 @@
+<!-- Interpolación: muestra el valor de una variable -->
+<h2>Bienvenido a {{course}}</h2>
+
+<!-- Two-way binding: combina binding de propiedad y binding de evento -->
+<input
+type="text" [(ngModel)] ="cardData.title"
+(input)="onTitleChange($event)"
+/>
+<div>
+    <!-- Property binding: asigna un valor a una propiedad del elemento -->
+    <img [src]="cardData.imageUrl" [alt]="cardData.title" height="200" width="350">
+    <h2>{{cardData.title}}</h2>
+    <p>{{cardData.description}}</p>
+    <!-- Event binding: ejecuta una acción cuando ocurre un evento -->
+    <button (click)="changeTitle()">Cambiar título</button>
+</div>
